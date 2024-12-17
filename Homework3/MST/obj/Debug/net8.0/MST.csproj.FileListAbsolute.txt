@@ -1,0 +1,14 @@
+C:\Users\Joeln\source\repos\heapSort\MST\bin\Debug\net8.0\MST.exe
+C:\Users\Joeln\source\repos\heapSort\MST\bin\Debug\net8.0\MST.deps.json
+C:\Users\Joeln\source\repos\heapSort\MST\bin\Debug\net8.0\MST.runtimeconfig.json
+C:\Users\Joeln\source\repos\heapSort\MST\bin\Debug\net8.0\MST.dll
+C:\Users\Joeln\source\repos\heapSort\MST\bin\Debug\net8.0\MST.pdb
+C:\Users\Joeln\source\repos\heapSort\MST\obj\Debug\net8.0\MST.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joeln\source\repos\heapSort\MST\obj\Debug\net8.0\MST.AssemblyInfoInputs.cache
+C:\Users\Joeln\source\repos\heapSort\MST\obj\Debug\net8.0\MST.AssemblyInfo.cs
+C:\Users\Joeln\source\repos\heapSort\MST\obj\Debug\net8.0\MST.csproj.CoreCompileInputs.cache
+C:\Users\Joeln\source\repos\heapSort\MST\obj\Debug\net8.0\MST.dll
+C:\Users\Joeln\source\repos\heapSort\MST\obj\Debug\net8.0\refint\MST.dll
+C:\Users\Joeln\source\repos\heapSort\MST\obj\Debug\net8.0\MST.pdb
+C:\Users\Joeln\source\repos\heapSort\MST\obj\Debug\net8.0\MST.genruntimeconfig.cache
+C:\Users\Joeln\source\repos\heapSort\MST\obj\Debug\net8.0\ref\MST.dll
