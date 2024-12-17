@@ -1,0 +1,14 @@
+C:\Users\Joeln\source\repos\heapSort\heapSort\bin\Debug\net8.0\heapSort.exe
+C:\Users\Joeln\source\repos\heapSort\heapSort\bin\Debug\net8.0\heapSort.deps.json
+C:\Users\Joeln\source\repos\heapSort\heapSort\bin\Debug\net8.0\heapSort.runtimeconfig.json
+C:\Users\Joeln\source\repos\heapSort\heapSort\bin\Debug\net8.0\heapSort.dll
+C:\Users\Joeln\source\repos\heapSort\heapSort\bin\Debug\net8.0\heapSort.pdb
+C:\Users\Joeln\source\repos\heapSort\heapSort\obj\Debug\net8.0\heapSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joeln\source\repos\heapSort\heapSort\obj\Debug\net8.0\heapSort.AssemblyInfoInputs.cache
+C:\Users\Joeln\source\repos\heapSort\heapSort\obj\Debug\net8.0\heapSort.AssemblyInfo.cs
+C:\Users\Joeln\source\repos\heapSort\heapSort\obj\Debug\net8.0\heapSort.csproj.CoreCompileInputs.cache
+C:\Users\Joeln\source\repos\heapSort\heapSort\obj\Debug\net8.0\heapSort.dll
+C:\Users\Joeln\source\repos\heapSort\heapSort\obj\Debug\net8.0\refint\heapSort.dll
+C:\Users\Joeln\source\repos\heapSort\heapSort\obj\Debug\net8.0\heapSort.pdb
+C:\Users\Joeln\source\repos\heapSort\heapSort\obj\Debug\net8.0\heapSort.genruntimeconfig.cache
+C:\Users\Joeln\source\repos\heapSort\heapSort\obj\Debug\net8.0\ref\heapSort.dll
